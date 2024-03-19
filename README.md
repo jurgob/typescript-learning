@@ -1,4 +1,4 @@
-## Typescript quests
+## Typescript quests
 
 This is a set of quests that aim to rise your level of typescript
 
